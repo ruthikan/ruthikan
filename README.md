@@ -1,6 +1,11 @@
 # 👋 Hi there, I'm Ruthika Nalajala!
 
-🎓 I'm a passionate final-year student specializing in **Artificial Intelligence and Data Science**.  
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/your-link/)
+[![Email Me](https://img.shields.io/badge/Email-Me-red)](mailto:your.email@example.com)
+
+## 👩‍💻 About Me
+
+🎓 I'm a passionate final-year student specializing in **Artificial Intelligence and Data Science** at IIT Indoor collaboration with Intellipaat
 🚀 I'm on a journey to become a **Machine Learning Engineer**, currently sharpening my skills through real-world projects and internships.  
 💻 I love building practical, impactful solutions in **Machine Learning, Deep Learning, Data Analytics**, and **Python**.
 
@@ -33,13 +38,6 @@
 - ✅ Machine Learning Intern at **Cognizify Technologies**
 - ✅ Python Intern at **CodeAlpha**
 - 📚 Currently enrolled in **AI & Data Science Program** at Intellipaat (in collaboration with Drishti CPSC, Indore University)
-
----
-
-## 📬 Connect with Me
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ruthika-nalajala-73127628b/)
-- 📧 Email: [nalajalaruthika007@gmail.com](mailto:nalajalaruthika007@gmail.com)
 
 ---
 
