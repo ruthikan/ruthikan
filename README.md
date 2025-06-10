@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Ruthika Nalajala!
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/ruthika-nalajala-73127628b/)
-[![Email Me](https://img.shields.io/badge/Email-Me-red)](ruthikanalajala007@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/ruthika-nalajala-73127628b/)
+[![Email](https://img.shields.io/badge/Email-Me-red)](mailto:ruthikanalajala007@gmail.com)
 
 ## 👩‍💻 About Me
 
